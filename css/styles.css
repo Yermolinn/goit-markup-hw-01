@@ -1,0 +1,11 @@
+.contact {
+    background-color: #244;
+}
+
+.contact:hover,
+.contact:focus {
+    color: blueviolet;
+}
+li {
+  text-decoration-skip: gf;  
+}
